@@ -1,0 +1,15 @@
+/Users/fanik/development/lab10_mac/lab10_mac/bin/Debug/net6.0/lab10_mac
+/Users/fanik/development/lab10_mac/lab10_mac/bin/Debug/net6.0/lab10_mac.deps.json
+/Users/fanik/development/lab10_mac/lab10_mac/bin/Debug/net6.0/lab10_mac.runtimeconfig.json
+/Users/fanik/development/lab10_mac/lab10_mac/bin/Debug/net6.0/lab10_mac.dll
+/Users/fanik/development/lab10_mac/lab10_mac/bin/Debug/net6.0/lab10_mac.pdb
+/Users/fanik/development/lab10_mac/lab10_mac/obj/Debug/net6.0/lab10_mac.csproj.AssemblyReference.cache
+/Users/fanik/development/lab10_mac/lab10_mac/obj/Debug/net6.0/lab10_mac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fanik/development/lab10_mac/lab10_mac/obj/Debug/net6.0/lab10_mac.AssemblyInfoInputs.cache
+/Users/fanik/development/lab10_mac/lab10_mac/obj/Debug/net6.0/lab10_mac.AssemblyInfo.cs
+/Users/fanik/development/lab10_mac/lab10_mac/obj/Debug/net6.0/lab10_mac.csproj.CoreCompileInputs.cache
+/Users/fanik/development/lab10_mac/lab10_mac/obj/Debug/net6.0/lab10_mac.dll
+/Users/fanik/development/lab10_mac/lab10_mac/obj/Debug/net6.0/refint/lab10_mac.dll
+/Users/fanik/development/lab10_mac/lab10_mac/obj/Debug/net6.0/lab10_mac.pdb
+/Users/fanik/development/lab10_mac/lab10_mac/obj/Debug/net6.0/lab10_mac.genruntimeconfig.cache
+/Users/fanik/development/lab10_mac/lab10_mac/obj/Debug/net6.0/ref/lab10_mac.dll

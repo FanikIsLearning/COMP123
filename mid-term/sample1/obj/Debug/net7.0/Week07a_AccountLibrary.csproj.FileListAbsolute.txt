@@ -1,0 +1,15 @@
+/Users/fanik/development/COMP123/mid-term/sample1/obj/Debug/net7.0/Week07a_AccountLibrary.csproj.AssemblyReference.cache
+/Users/fanik/development/COMP123/mid-term/sample1/obj/Debug/net7.0/Week07a_AccountLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fanik/development/COMP123/mid-term/sample1/obj/Debug/net7.0/Week07a_AccountLibrary.AssemblyInfoInputs.cache
+/Users/fanik/development/COMP123/mid-term/sample1/obj/Debug/net7.0/Week07a_AccountLibrary.AssemblyInfo.cs
+/Users/fanik/development/COMP123/mid-term/sample1/obj/Debug/net7.0/Week07a_AccountLibrary.csproj.CoreCompileInputs.cache
+/Users/fanik/development/COMP123/mid-term/sample1/bin/Debug/net7.0/Week07a_AccountLibrary
+/Users/fanik/development/COMP123/mid-term/sample1/bin/Debug/net7.0/Week07a_AccountLibrary.deps.json
+/Users/fanik/development/COMP123/mid-term/sample1/bin/Debug/net7.0/Week07a_AccountLibrary.runtimeconfig.json
+/Users/fanik/development/COMP123/mid-term/sample1/bin/Debug/net7.0/Week07a_AccountLibrary.dll
+/Users/fanik/development/COMP123/mid-term/sample1/bin/Debug/net7.0/Week07a_AccountLibrary.pdb
+/Users/fanik/development/COMP123/mid-term/sample1/obj/Debug/net7.0/Week07a_AccountLibrary.dll
+/Users/fanik/development/COMP123/mid-term/sample1/obj/Debug/net7.0/refint/Week07a_AccountLibrary.dll
+/Users/fanik/development/COMP123/mid-term/sample1/obj/Debug/net7.0/Week07a_AccountLibrary.pdb
+/Users/fanik/development/COMP123/mid-term/sample1/obj/Debug/net7.0/Week07a_AccountLibrary.genruntimeconfig.cache
+/Users/fanik/development/COMP123/mid-term/sample1/obj/Debug/net7.0/ref/Week07a_AccountLibrary.dll

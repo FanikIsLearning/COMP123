@@ -1,0 +1,15 @@
+/Users/fanik/development/COMP123/week01/PandaDemo/bin/Debug/net7.0/PandaDemo
+/Users/fanik/development/COMP123/week01/PandaDemo/bin/Debug/net7.0/PandaDemo.deps.json
+/Users/fanik/development/COMP123/week01/PandaDemo/bin/Debug/net7.0/PandaDemo.runtimeconfig.json
+/Users/fanik/development/COMP123/week01/PandaDemo/bin/Debug/net7.0/PandaDemo.dll
+/Users/fanik/development/COMP123/week01/PandaDemo/bin/Debug/net7.0/PandaDemo.pdb
+/Users/fanik/development/COMP123/week01/PandaDemo/obj/Debug/net7.0/PandaDemo.csproj.AssemblyReference.cache
+/Users/fanik/development/COMP123/week01/PandaDemo/obj/Debug/net7.0/PandaDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fanik/development/COMP123/week01/PandaDemo/obj/Debug/net7.0/PandaDemo.AssemblyInfoInputs.cache
+/Users/fanik/development/COMP123/week01/PandaDemo/obj/Debug/net7.0/PandaDemo.AssemblyInfo.cs
+/Users/fanik/development/COMP123/week01/PandaDemo/obj/Debug/net7.0/PandaDemo.csproj.CoreCompileInputs.cache
+/Users/fanik/development/COMP123/week01/PandaDemo/obj/Debug/net7.0/PandaDemo.dll
+/Users/fanik/development/COMP123/week01/PandaDemo/obj/Debug/net7.0/refint/PandaDemo.dll
+/Users/fanik/development/COMP123/week01/PandaDemo/obj/Debug/net7.0/PandaDemo.pdb
+/Users/fanik/development/COMP123/week01/PandaDemo/obj/Debug/net7.0/PandaDemo.genruntimeconfig.cache
+/Users/fanik/development/COMP123/week01/PandaDemo/obj/Debug/net7.0/ref/PandaDemo.dll

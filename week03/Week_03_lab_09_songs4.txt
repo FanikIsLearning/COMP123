@@ -1,0 +1,84 @@
+Baby
+Justin Bebier
+3.35
+Pop
+Fearless
+Taylor Swift
+4.03
+Pop
+Runaway Love
+Ludacris
+4.41
+Pop
+My Heart Will Go On
+Celine Dion
+4.41
+Pop
+Jesus Take The Wheel
+Carrie Underwood
+3.31
+Country
+If Tomorrow Never Comes
+Garth Brooks
+3.40
+Country
+Set Fire To Rain
+Adele
+4.01
+Soul
+Don't You Remember
+Adele
+3.03
+Soul
+Signed Sealed Deliverd I'm Yours
+Stevie Wonder
+2.39
+Soul
+Just Another Night
+Mick Jagger
+5.15
+Rock
+Brown Sugar
+Mick Jagger
+3.50
+Rock
+All I Want Is You
+Bono
+6.30
+Metal
+Beautiful Day
+Bono
+4.08
+Metal
+Like A Rolling Stone
+Bob Dylan
+6.08
+Rock
+Just Like a Woman
+Bob Dylan
+4.51
+Rock
+Hurricane
+Bob Dylan
+8.33
+Rock
+Subterranean Homesick Blues
+Bob Dylan
+2.24
+Rock
+Tangled Up In Blue
+Bob Dylan
+5.40
+Rock
+Love Me
+Elvis Presley
+2.42
+Rock
+In The Getto
+Elvis Presley
+2.31
+Rock
+All Shook Up
+Elvis Presley
+1.54
+Rock

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week12", "Week12\Week12.csproj", "{32DE5EF6-A576-43F9-90BE-D8630D2321E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq", "linq\linq.csproj", "{A4CECFD3-A637-4953-A62B-84CBDA33B4F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32DE5EF6-A576-43F9-90BE-D8630D2321E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32DE5EF6-A576-43F9-90BE-D8630D2321E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32DE5EF6-A576-43F9-90BE-D8630D2321E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32DE5EF6-A576-43F9-90BE-D8630D2321E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4CECFD3-A637-4953-A62B-84CBDA33B4F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4CECFD3-A637-4953-A62B-84CBDA33B4F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4CECFD3-A637-4953-A62B-84CBDA33B4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4CECFD3-A637-4953-A62B-84CBDA33B4F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FC495B9-D511-4903-9817-94EC107C1D57}
+	EndGlobalSection
+EndGlobal

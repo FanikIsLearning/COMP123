@@ -1,0 +1,58 @@
+[
+  {
+    "Name": "Jake Nesovic",
+    "Id": "1000",
+    "Status": 1,
+    "Program": 0,
+    "Courses": [
+      {
+        "Code": "EMPS100",
+        "Hours": 3
+      },
+      {
+        "Code": "COMP120",
+        "Hours": 4
+      },
+      {
+        "Code": "COMP213",
+        "Hours": 4
+      }
+    ]
+  },
+  {
+    "Name": "HOI KIT FAN",
+    "Id": "1001",
+    "Status": 0,
+    "Program": 3,
+    "Courses": [
+      {
+        "Code": "ID: 301249275",
+        "Hours": 4
+      }
+    ]
+  },
+  {
+    "Name": "Ivan",
+    "Id": "1002",
+    "Status": 2,
+    "Program": 3,
+    "Courses": [
+      {
+        "Code": "COMP100",
+        "Hours": 4
+      }
+    ]
+  },
+  {
+    "Name": "Selene",
+    "Id": "1003",
+    "Status": 1,
+    "Program": 0,
+    "Courses": [
+      {
+        "Code": "COMP100",
+        "Hours": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+/Users/fanik/development/COMP123/week02/Medal/bin/Debug/net7.0/Medal
+/Users/fanik/development/COMP123/week02/Medal/bin/Debug/net7.0/Medal.deps.json
+/Users/fanik/development/COMP123/week02/Medal/bin/Debug/net7.0/Medal.runtimeconfig.json
+/Users/fanik/development/COMP123/week02/Medal/bin/Debug/net7.0/Medal.dll
+/Users/fanik/development/COMP123/week02/Medal/bin/Debug/net7.0/Medal.pdb
+/Users/fanik/development/COMP123/week02/Medal/obj/Debug/net7.0/Medal.csproj.AssemblyReference.cache
+/Users/fanik/development/COMP123/week02/Medal/obj/Debug/net7.0/Medal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fanik/development/COMP123/week02/Medal/obj/Debug/net7.0/Medal.AssemblyInfoInputs.cache
+/Users/fanik/development/COMP123/week02/Medal/obj/Debug/net7.0/Medal.AssemblyInfo.cs
+/Users/fanik/development/COMP123/week02/Medal/obj/Debug/net7.0/Medal.csproj.CoreCompileInputs.cache
+/Users/fanik/development/COMP123/week02/Medal/obj/Debug/net7.0/Medal.dll
+/Users/fanik/development/COMP123/week02/Medal/obj/Debug/net7.0/refint/Medal.dll
+/Users/fanik/development/COMP123/week02/Medal/obj/Debug/net7.0/Medal.pdb
+/Users/fanik/development/COMP123/week02/Medal/obj/Debug/net7.0/Medal.genruntimeconfig.cache
+/Users/fanik/development/COMP123/week02/Medal/obj/Debug/net7.0/ref/Medal.dll

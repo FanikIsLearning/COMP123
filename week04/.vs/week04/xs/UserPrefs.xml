@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{11EA852D-1258-4362-8E49-7A45A4C178B4}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Complex PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.week04 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Atom/Program.cs">
+    <Files>
+      <File FileName="Complex/Program.cs" />
+      <File FileName="week04/Program.cs" Line="83" Column="2" />
+      <File FileName="Atom/Program.cs" Line="64" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="week04" expanded="True">
+            <Node name="Atom" expanded="True" />
+            <Node name="Complex" expanded="True" />
+            <Node name="week04" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Atom PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/fanik/development/COMP123/week05/Theatre/bin/Debug/net7.0/Theatre
+/Users/fanik/development/COMP123/week05/Theatre/bin/Debug/net7.0/Theatre.deps.json
+/Users/fanik/development/COMP123/week05/Theatre/bin/Debug/net7.0/Theatre.runtimeconfig.json
+/Users/fanik/development/COMP123/week05/Theatre/bin/Debug/net7.0/Theatre.dll
+/Users/fanik/development/COMP123/week05/Theatre/bin/Debug/net7.0/Theatre.pdb
+/Users/fanik/development/COMP123/week05/Theatre/obj/Debug/net7.0/Theatre.csproj.AssemblyReference.cache
+/Users/fanik/development/COMP123/week05/Theatre/obj/Debug/net7.0/Theatre.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fanik/development/COMP123/week05/Theatre/obj/Debug/net7.0/Theatre.AssemblyInfoInputs.cache
+/Users/fanik/development/COMP123/week05/Theatre/obj/Debug/net7.0/Theatre.AssemblyInfo.cs
+/Users/fanik/development/COMP123/week05/Theatre/obj/Debug/net7.0/Theatre.csproj.CoreCompileInputs.cache
+/Users/fanik/development/COMP123/week05/Theatre/obj/Debug/net7.0/Theatre.dll
+/Users/fanik/development/COMP123/week05/Theatre/obj/Debug/net7.0/refint/Theatre.dll
+/Users/fanik/development/COMP123/week05/Theatre/obj/Debug/net7.0/Theatre.pdb
+/Users/fanik/development/COMP123/week05/Theatre/obj/Debug/net7.0/Theatre.genruntimeconfig.cache
+/Users/fanik/development/COMP123/week05/Theatre/obj/Debug/net7.0/ref/Theatre.dll

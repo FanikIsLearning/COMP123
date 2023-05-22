@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week06", "week06\week06.csproj", "{8CA362AA-5682-4D35-97D3-023A25073987}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheritance_shapes", "inheritance_shapes\inheritance_shapes.csproj", "{5E522B0A-EACF-4000-AF47-041AE7C2B1F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CA362AA-5682-4D35-97D3-023A25073987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA362AA-5682-4D35-97D3-023A25073987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA362AA-5682-4D35-97D3-023A25073987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA362AA-5682-4D35-97D3-023A25073987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E522B0A-EACF-4000-AF47-041AE7C2B1F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E522B0A-EACF-4000-AF47-041AE7C2B1F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E522B0A-EACF-4000-AF47-041AE7C2B1F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E522B0A-EACF-4000-AF47-041AE7C2B1F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00143CAC-086F-46C2-8E06-ED3CE3D7CF6C}
+	EndGlobalSection
+EndGlobal

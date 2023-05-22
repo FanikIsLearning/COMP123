@@ -1,0 +1,15 @@
+/Users/fanik/development/COMP123/week03/Time/bin/Debug/net7.0/Time
+/Users/fanik/development/COMP123/week03/Time/bin/Debug/net7.0/Time.deps.json
+/Users/fanik/development/COMP123/week03/Time/bin/Debug/net7.0/Time.runtimeconfig.json
+/Users/fanik/development/COMP123/week03/Time/bin/Debug/net7.0/Time.dll
+/Users/fanik/development/COMP123/week03/Time/bin/Debug/net7.0/Time.pdb
+/Users/fanik/development/COMP123/week03/Time/obj/Debug/net7.0/Time.csproj.AssemblyReference.cache
+/Users/fanik/development/COMP123/week03/Time/obj/Debug/net7.0/Time.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fanik/development/COMP123/week03/Time/obj/Debug/net7.0/Time.AssemblyInfoInputs.cache
+/Users/fanik/development/COMP123/week03/Time/obj/Debug/net7.0/Time.AssemblyInfo.cs
+/Users/fanik/development/COMP123/week03/Time/obj/Debug/net7.0/Time.csproj.CoreCompileInputs.cache
+/Users/fanik/development/COMP123/week03/Time/obj/Debug/net7.0/Time.dll
+/Users/fanik/development/COMP123/week03/Time/obj/Debug/net7.0/refint/Time.dll
+/Users/fanik/development/COMP123/week03/Time/obj/Debug/net7.0/Time.pdb
+/Users/fanik/development/COMP123/week03/Time/obj/Debug/net7.0/Time.genruntimeconfig.cache
+/Users/fanik/development/COMP123/week03/Time/obj/Debug/net7.0/ref/Time.dll

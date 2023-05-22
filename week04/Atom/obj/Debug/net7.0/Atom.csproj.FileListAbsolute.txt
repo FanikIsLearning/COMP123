@@ -1,0 +1,15 @@
+/Users/fanik/development/COMP123/week04/Atom/bin/Debug/net7.0/Atom
+/Users/fanik/development/COMP123/week04/Atom/bin/Debug/net7.0/Atom.deps.json
+/Users/fanik/development/COMP123/week04/Atom/bin/Debug/net7.0/Atom.runtimeconfig.json
+/Users/fanik/development/COMP123/week04/Atom/bin/Debug/net7.0/Atom.dll
+/Users/fanik/development/COMP123/week04/Atom/bin/Debug/net7.0/Atom.pdb
+/Users/fanik/development/COMP123/week04/Atom/obj/Debug/net7.0/Atom.csproj.AssemblyReference.cache
+/Users/fanik/development/COMP123/week04/Atom/obj/Debug/net7.0/Atom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fanik/development/COMP123/week04/Atom/obj/Debug/net7.0/Atom.AssemblyInfoInputs.cache
+/Users/fanik/development/COMP123/week04/Atom/obj/Debug/net7.0/Atom.AssemblyInfo.cs
+/Users/fanik/development/COMP123/week04/Atom/obj/Debug/net7.0/Atom.csproj.CoreCompileInputs.cache
+/Users/fanik/development/COMP123/week04/Atom/obj/Debug/net7.0/Atom.dll
+/Users/fanik/development/COMP123/week04/Atom/obj/Debug/net7.0/refint/Atom.dll
+/Users/fanik/development/COMP123/week04/Atom/obj/Debug/net7.0/Atom.pdb
+/Users/fanik/development/COMP123/week04/Atom/obj/Debug/net7.0/Atom.genruntimeconfig.cache
+/Users/fanik/development/COMP123/week04/Atom/obj/Debug/net7.0/ref/Atom.dll

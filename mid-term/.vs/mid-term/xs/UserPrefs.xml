@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{A2136A77-1B60-47CA-9822-8AC13F76306D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Week07a__AccountLibrary PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Week07b__AccountApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.mid-term PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Student__Application PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="mid-term/Program.cs">
+    <Files>
+      <File FileName="mid-term/Program.cs" Line="1" Column="1" />
+      <File FileName="week07b-accountApp/Program.cs" />
+      <File FileName="Student_Application/Program.cs" Line="10" Column="12" />
+      <File FileName="sample1/Program.cs" Line="7" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mid-term" expanded="True">
+            <Node name="mid-term" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Week07a_AccountLibrary" expanded="True" />
+            <Node name="Week07b_AccountApp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

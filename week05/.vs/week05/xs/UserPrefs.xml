@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{097EC98D-BC62-403A-98D0-0963A6490A2E}|Default">
+  <MonoDevelop.Ide.ItemProperties.week05 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Theatre PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Theatre/Program.cs">
+    <Files>
+      <File FileName="week05/Program.cs" />
+      <File FileName="Theatre/Program.cs" Line="18" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="week05" expanded="True">
+            <Node name="Theatre" expanded="True" />
+            <Node name="week05" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

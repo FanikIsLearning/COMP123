@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gYG9Ql9IhPh4Er8uPhjHkp81dhMRkl/hAOiDOoSByoA8HAciAOhx5g1BLQndsPNC34g//upm0SOFWaDkYqT1OQ==",
+  "success": true,
+  "projectFilePath": "/Users/fanik/development/COMP123/week04/week04/week04.csproj",
+  "expectedPackageFiles": [
+    "/Users/fanik/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

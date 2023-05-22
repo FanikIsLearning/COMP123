@@ -1,0 +1,15 @@
+/Users/fanik/development/COMP123/week01/Car/bin/Debug/net7.0/Car
+/Users/fanik/development/COMP123/week01/Car/bin/Debug/net7.0/Car.deps.json
+/Users/fanik/development/COMP123/week01/Car/bin/Debug/net7.0/Car.runtimeconfig.json
+/Users/fanik/development/COMP123/week01/Car/bin/Debug/net7.0/Car.dll
+/Users/fanik/development/COMP123/week01/Car/bin/Debug/net7.0/Car.pdb
+/Users/fanik/development/COMP123/week01/Car/obj/Debug/net7.0/Car.csproj.AssemblyReference.cache
+/Users/fanik/development/COMP123/week01/Car/obj/Debug/net7.0/Car.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fanik/development/COMP123/week01/Car/obj/Debug/net7.0/Car.AssemblyInfoInputs.cache
+/Users/fanik/development/COMP123/week01/Car/obj/Debug/net7.0/Car.AssemblyInfo.cs
+/Users/fanik/development/COMP123/week01/Car/obj/Debug/net7.0/Car.csproj.CoreCompileInputs.cache
+/Users/fanik/development/COMP123/week01/Car/obj/Debug/net7.0/Car.dll
+/Users/fanik/development/COMP123/week01/Car/obj/Debug/net7.0/refint/Car.dll
+/Users/fanik/development/COMP123/week01/Car/obj/Debug/net7.0/Car.pdb
+/Users/fanik/development/COMP123/week01/Car/obj/Debug/net7.0/Car.genruntimeconfig.cache
+/Users/fanik/development/COMP123/week01/Car/obj/Debug/net7.0/ref/Car.dll

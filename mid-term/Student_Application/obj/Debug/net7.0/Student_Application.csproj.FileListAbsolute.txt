@@ -1,0 +1,15 @@
+/Users/fanik/development/COMP123/mid-term/Student_Application/bin/Debug/net7.0/Student_Application
+/Users/fanik/development/COMP123/mid-term/Student_Application/bin/Debug/net7.0/Student_Application.deps.json
+/Users/fanik/development/COMP123/mid-term/Student_Application/bin/Debug/net7.0/Student_Application.runtimeconfig.json
+/Users/fanik/development/COMP123/mid-term/Student_Application/bin/Debug/net7.0/Student_Application.dll
+/Users/fanik/development/COMP123/mid-term/Student_Application/bin/Debug/net7.0/Student_Application.pdb
+/Users/fanik/development/COMP123/mid-term/Student_Application/obj/Debug/net7.0/Student_Application.csproj.AssemblyReference.cache
+/Users/fanik/development/COMP123/mid-term/Student_Application/obj/Debug/net7.0/Student_Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fanik/development/COMP123/mid-term/Student_Application/obj/Debug/net7.0/Student_Application.AssemblyInfoInputs.cache
+/Users/fanik/development/COMP123/mid-term/Student_Application/obj/Debug/net7.0/Student_Application.AssemblyInfo.cs
+/Users/fanik/development/COMP123/mid-term/Student_Application/obj/Debug/net7.0/Student_Application.csproj.CoreCompileInputs.cache
+/Users/fanik/development/COMP123/mid-term/Student_Application/obj/Debug/net7.0/Student_Application.dll
+/Users/fanik/development/COMP123/mid-term/Student_Application/obj/Debug/net7.0/refint/Student_Application.dll
+/Users/fanik/development/COMP123/mid-term/Student_Application/obj/Debug/net7.0/Student_Application.pdb
+/Users/fanik/development/COMP123/mid-term/Student_Application/obj/Debug/net7.0/Student_Application.genruntimeconfig.cache
+/Users/fanik/development/COMP123/mid-term/Student_Application/obj/Debug/net7.0/ref/Student_Application.dll

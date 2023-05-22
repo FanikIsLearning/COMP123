@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{A4CECFD3-A637-4953-A62B-84CBDA33B4F3}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="linq/Program.cs">
+    <Files>
+      <File FileName="linq/Program.cs" Line="16" Column="10" />
+      <File FileName="linq/Data.cs" Line="109" Column="71" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week12" expanded="True">
+            <Node name="linq" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Week12" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.linq PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Week12 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

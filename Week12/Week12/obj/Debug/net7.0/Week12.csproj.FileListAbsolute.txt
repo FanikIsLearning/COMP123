@@ -1,0 +1,15 @@
+/Users/fanik/development/COMP123/Week12/Week12/bin/Debug/net7.0/Week12
+/Users/fanik/development/COMP123/Week12/Week12/bin/Debug/net7.0/Week12.deps.json
+/Users/fanik/development/COMP123/Week12/Week12/bin/Debug/net7.0/Week12.runtimeconfig.json
+/Users/fanik/development/COMP123/Week12/Week12/bin/Debug/net7.0/Week12.dll
+/Users/fanik/development/COMP123/Week12/Week12/bin/Debug/net7.0/Week12.pdb
+/Users/fanik/development/COMP123/Week12/Week12/obj/Debug/net7.0/Week12.csproj.AssemblyReference.cache
+/Users/fanik/development/COMP123/Week12/Week12/obj/Debug/net7.0/Week12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fanik/development/COMP123/Week12/Week12/obj/Debug/net7.0/Week12.AssemblyInfoInputs.cache
+/Users/fanik/development/COMP123/Week12/Week12/obj/Debug/net7.0/Week12.AssemblyInfo.cs
+/Users/fanik/development/COMP123/Week12/Week12/obj/Debug/net7.0/Week12.csproj.CoreCompileInputs.cache
+/Users/fanik/development/COMP123/Week12/Week12/obj/Debug/net7.0/Week12.dll
+/Users/fanik/development/COMP123/Week12/Week12/obj/Debug/net7.0/refint/Week12.dll
+/Users/fanik/development/COMP123/Week12/Week12/obj/Debug/net7.0/Week12.pdb
+/Users/fanik/development/COMP123/Week12/Week12/obj/Debug/net7.0/Week12.genruntimeconfig.cache
+/Users/fanik/development/COMP123/Week12/Week12/obj/Debug/net7.0/ref/Week12.dll

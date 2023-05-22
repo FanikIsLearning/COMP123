@@ -1,0 +1,15 @@
+/Users/fanik/development/COMP123/week02/Pet/bin/Debug/net7.0/Pet
+/Users/fanik/development/COMP123/week02/Pet/bin/Debug/net7.0/Pet.deps.json
+/Users/fanik/development/COMP123/week02/Pet/bin/Debug/net7.0/Pet.runtimeconfig.json
+/Users/fanik/development/COMP123/week02/Pet/bin/Debug/net7.0/Pet.dll
+/Users/fanik/development/COMP123/week02/Pet/bin/Debug/net7.0/Pet.pdb
+/Users/fanik/development/COMP123/week02/Pet/obj/Debug/net7.0/Pet.csproj.AssemblyReference.cache
+/Users/fanik/development/COMP123/week02/Pet/obj/Debug/net7.0/Pet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fanik/development/COMP123/week02/Pet/obj/Debug/net7.0/Pet.AssemblyInfoInputs.cache
+/Users/fanik/development/COMP123/week02/Pet/obj/Debug/net7.0/Pet.AssemblyInfo.cs
+/Users/fanik/development/COMP123/week02/Pet/obj/Debug/net7.0/Pet.csproj.CoreCompileInputs.cache
+/Users/fanik/development/COMP123/week02/Pet/obj/Debug/net7.0/Pet.dll
+/Users/fanik/development/COMP123/week02/Pet/obj/Debug/net7.0/refint/Pet.dll
+/Users/fanik/development/COMP123/week02/Pet/obj/Debug/net7.0/Pet.pdb
+/Users/fanik/development/COMP123/week02/Pet/obj/Debug/net7.0/Pet.genruntimeconfig.cache
+/Users/fanik/development/COMP123/week02/Pet/obj/Debug/net7.0/ref/Pet.dll

@@ -1,0 +1,16 @@
+/Users/fanik/development/COMP123/FractionCalculatorGUI/FractionCalculatorGUI/bin/Debug/FractionCalculatorGUI.exe
+/Users/fanik/development/COMP123/FractionCalculatorGUI/FractionCalculatorGUI/bin/Debug/FractionCalculatorGUI.pdb
+/Users/fanik/development/COMP123/FractionCalculatorGUI/FractionCalculatorGUI/obj/Debug/actool/_PartialAppManifest.items
+/Users/fanik/development/COMP123/FractionCalculatorGUI/FractionCalculatorGUI/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/fanik/development/COMP123/FractionCalculatorGUI/FractionCalculatorGUI/obj/Debug/actool/_ProcessedImageAssetsPath.items
+/Users/fanik/development/COMP123/FractionCalculatorGUI/FractionCalculatorGUI/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/fanik/development/COMP123/FractionCalculatorGUI/FractionCalculatorGUI/obj/Debug/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/fanik/development/COMP123/FractionCalculatorGUI/FractionCalculatorGUI/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/fanik/development/COMP123/FractionCalculatorGUI/FractionCalculatorGUI/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/fanik/development/COMP123/FractionCalculatorGUI/FractionCalculatorGUI/obj/Debug/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/fanik/development/COMP123/FractionCalculatorGUI/FractionCalculatorGUI/obj/Debug/_ProcessedBundleResourcesPath.items
+/Users/fanik/development/COMP123/FractionCalculatorGUI/FractionCalculatorGUI/obj/Debug/_ProcessedContentPath.items
+/Users/fanik/development/COMP123/FractionCalculatorGUI/FractionCalculatorGUI/obj/Debug/FractionCalculatorGUI.csproj.AssemblyReference.cache
+/Users/fanik/development/COMP123/FractionCalculatorGUI/FractionCalculatorGUI/obj/Debug/FractionCalculatorGUI.csproj.CoreCompileInputs.cache
+/Users/fanik/development/COMP123/FractionCalculatorGUI/FractionCalculatorGUI/obj/Debug/FractionCalculatorGUI.exe
+/Users/fanik/development/COMP123/FractionCalculatorGUI/FractionCalculatorGUI/obj/Debug/FractionCalculatorGUI.pdb

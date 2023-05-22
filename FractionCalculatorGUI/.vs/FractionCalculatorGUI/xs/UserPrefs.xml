@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{BF630785-0CB2-4809-B306-A1561013F796}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FractionCalculatorGUI PreferredExecutionTarget="MyMacID" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="FractionCalculatorGUI/ViewController.designer.cs">
+    <Files>
+      <File FileName="FractionCalculatorGUI/AppDelegate.cs" Line="25" Column="1" />
+      <File FileName="../../../../../Library/Frameworks/Xamarin.Mac.framework/Versions/9.1.0.5/lib/msbuild/Xamarin.Shared.targets" Line="870" Column="3" />
+      <File FileName="FractionCalculatorGUI/ViewController.designer.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FractionCalculatorGUI" expanded="True">
+            <Node name="FractionCalculatorGUI" expanded="True">
+              <Node name="ViewController.cs" expanded="True">
+                <Node name="ViewController.designer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

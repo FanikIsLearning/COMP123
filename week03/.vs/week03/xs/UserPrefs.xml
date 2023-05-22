@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2BD0F8A6-2BBB-48C2-8C64-D14056C9E680}|Default">
+  <MonoDevelop.Ide.ItemProperties.Time PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.week03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Song PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Song/Program.cs">
+    <Files>
+      <File FileName="week03/Program.cs" Line="91" Column="33" />
+      <File FileName="Song/Program.cs" Line="8" Column="26" />
+      <File FileName="Time/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="week03" expanded="True">
+            <Node name="Song" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Time" expanded="True" />
+            <Node name="week03" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

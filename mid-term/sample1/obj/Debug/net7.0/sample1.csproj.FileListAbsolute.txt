@@ -1,0 +1,5 @@
+/Users/fanik/development/COMP123/mid-term/sample1/obj/Debug/net7.0/sample1.csproj.AssemblyReference.cache
+/Users/fanik/development/COMP123/mid-term/sample1/obj/Debug/net7.0/sample1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fanik/development/COMP123/mid-term/sample1/obj/Debug/net7.0/sample1.AssemblyInfoInputs.cache
+/Users/fanik/development/COMP123/mid-term/sample1/obj/Debug/net7.0/sample1.AssemblyInfo.cs
+/Users/fanik/development/COMP123/mid-term/sample1/obj/Debug/net7.0/sample1.csproj.CoreCompileInputs.cache

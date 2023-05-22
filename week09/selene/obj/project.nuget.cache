@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uWA+/1+hUziHy3j3TUbTBvXfMM9arn5b9a3YR4bZAlGO433psxgtDy6BxYLeNLI14B+OG8HVyrIj0khFLhthkw==",
+  "success": true,
+  "projectFilePath": "/Users/fanik/development/COMP123/week09/selene/selene.csproj",
+  "expectedPackageFiles": [
+    "/Users/fanik/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

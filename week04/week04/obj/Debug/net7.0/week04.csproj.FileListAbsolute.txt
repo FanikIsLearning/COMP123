@@ -1,0 +1,17 @@
+/Users/fanik/development/COMP123/week04/week04/bin/Debug/net7.0/week04
+/Users/fanik/development/COMP123/week04/week04/bin/Debug/net7.0/week04.deps.json
+/Users/fanik/development/COMP123/week04/week04/bin/Debug/net7.0/week04.runtimeconfig.json
+/Users/fanik/development/COMP123/week04/week04/bin/Debug/net7.0/week04.dll
+/Users/fanik/development/COMP123/week04/week04/bin/Debug/net7.0/week04.pdb
+/Users/fanik/development/COMP123/week04/week04/obj/Debug/net7.0/week04.csproj.AssemblyReference.cache
+/Users/fanik/development/COMP123/week04/week04/obj/Debug/net7.0/week04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fanik/development/COMP123/week04/week04/obj/Debug/net7.0/week04.AssemblyInfoInputs.cache
+/Users/fanik/development/COMP123/week04/week04/obj/Debug/net7.0/week04.AssemblyInfo.cs
+/Users/fanik/development/COMP123/week04/week04/obj/Debug/net7.0/week04.csproj.CoreCompileInputs.cache
+/Users/fanik/development/COMP123/week04/week04/obj/Debug/net7.0/week04.dll
+/Users/fanik/development/COMP123/week04/week04/obj/Debug/net7.0/refint/week04.dll
+/Users/fanik/development/COMP123/week04/week04/obj/Debug/net7.0/week04.pdb
+/Users/fanik/development/COMP123/week04/week04/obj/Debug/net7.0/week04.genruntimeconfig.cache
+/Users/fanik/development/COMP123/week04/week04/obj/Debug/net7.0/ref/week04.dll
+/Users/fanik/development/COMP123/week04/week04/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/fanik/development/COMP123/week04/week04/obj/Debug/net7.0/week04.csproj.CopyComplete

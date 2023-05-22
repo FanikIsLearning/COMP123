@@ -1,0 +1,15 @@
+/Users/fanik/development/COMP123/week03/Song/bin/Debug/net7.0/Song
+/Users/fanik/development/COMP123/week03/Song/bin/Debug/net7.0/Song.deps.json
+/Users/fanik/development/COMP123/week03/Song/bin/Debug/net7.0/Song.runtimeconfig.json
+/Users/fanik/development/COMP123/week03/Song/bin/Debug/net7.0/Song.dll
+/Users/fanik/development/COMP123/week03/Song/bin/Debug/net7.0/Song.pdb
+/Users/fanik/development/COMP123/week03/Song/obj/Debug/net7.0/Song.csproj.AssemblyReference.cache
+/Users/fanik/development/COMP123/week03/Song/obj/Debug/net7.0/Song.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fanik/development/COMP123/week03/Song/obj/Debug/net7.0/Song.AssemblyInfoInputs.cache
+/Users/fanik/development/COMP123/week03/Song/obj/Debug/net7.0/Song.AssemblyInfo.cs
+/Users/fanik/development/COMP123/week03/Song/obj/Debug/net7.0/Song.csproj.CoreCompileInputs.cache
+/Users/fanik/development/COMP123/week03/Song/obj/Debug/net7.0/Song.dll
+/Users/fanik/development/COMP123/week03/Song/obj/Debug/net7.0/refint/Song.dll
+/Users/fanik/development/COMP123/week03/Song/obj/Debug/net7.0/Song.pdb
+/Users/fanik/development/COMP123/week03/Song/obj/Debug/net7.0/Song.genruntimeconfig.cache
+/Users/fanik/development/COMP123/week03/Song/obj/Debug/net7.0/ref/Song.dll

@@ -1,0 +1,15 @@
+/Users/fanik/development/COMP123/week04/Complex/bin/Debug/net7.0/Complex
+/Users/fanik/development/COMP123/week04/Complex/bin/Debug/net7.0/Complex.deps.json
+/Users/fanik/development/COMP123/week04/Complex/bin/Debug/net7.0/Complex.runtimeconfig.json
+/Users/fanik/development/COMP123/week04/Complex/bin/Debug/net7.0/Complex.dll
+/Users/fanik/development/COMP123/week04/Complex/bin/Debug/net7.0/Complex.pdb
+/Users/fanik/development/COMP123/week04/Complex/obj/Debug/net7.0/Complex.csproj.AssemblyReference.cache
+/Users/fanik/development/COMP123/week04/Complex/obj/Debug/net7.0/Complex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fanik/development/COMP123/week04/Complex/obj/Debug/net7.0/Complex.AssemblyInfoInputs.cache
+/Users/fanik/development/COMP123/week04/Complex/obj/Debug/net7.0/Complex.AssemblyInfo.cs
+/Users/fanik/development/COMP123/week04/Complex/obj/Debug/net7.0/Complex.csproj.CoreCompileInputs.cache
+/Users/fanik/development/COMP123/week04/Complex/obj/Debug/net7.0/Complex.dll
+/Users/fanik/development/COMP123/week04/Complex/obj/Debug/net7.0/refint/Complex.dll
+/Users/fanik/development/COMP123/week04/Complex/obj/Debug/net7.0/Complex.pdb
+/Users/fanik/development/COMP123/week04/Complex/obj/Debug/net7.0/Complex.genruntimeconfig.cache
+/Users/fanik/development/COMP123/week04/Complex/obj/Debug/net7.0/ref/Complex.dll

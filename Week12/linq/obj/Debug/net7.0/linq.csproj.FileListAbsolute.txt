@@ -1,0 +1,15 @@
+/Users/fanik/development/COMP123/Week12/linq/bin/Debug/net7.0/linq
+/Users/fanik/development/COMP123/Week12/linq/bin/Debug/net7.0/linq.deps.json
+/Users/fanik/development/COMP123/Week12/linq/bin/Debug/net7.0/linq.runtimeconfig.json
+/Users/fanik/development/COMP123/Week12/linq/bin/Debug/net7.0/linq.dll
+/Users/fanik/development/COMP123/Week12/linq/bin/Debug/net7.0/linq.pdb
+/Users/fanik/development/COMP123/Week12/linq/obj/Debug/net7.0/linq.csproj.AssemblyReference.cache
+/Users/fanik/development/COMP123/Week12/linq/obj/Debug/net7.0/linq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fanik/development/COMP123/Week12/linq/obj/Debug/net7.0/linq.AssemblyInfoInputs.cache
+/Users/fanik/development/COMP123/Week12/linq/obj/Debug/net7.0/linq.AssemblyInfo.cs
+/Users/fanik/development/COMP123/Week12/linq/obj/Debug/net7.0/linq.csproj.CoreCompileInputs.cache
+/Users/fanik/development/COMP123/Week12/linq/obj/Debug/net7.0/linq.dll
+/Users/fanik/development/COMP123/Week12/linq/obj/Debug/net7.0/refint/linq.dll
+/Users/fanik/development/COMP123/Week12/linq/obj/Debug/net7.0/linq.pdb
+/Users/fanik/development/COMP123/Week12/linq/obj/Debug/net7.0/linq.genruntimeconfig.cache
+/Users/fanik/development/COMP123/Week12/linq/obj/Debug/net7.0/ref/linq.dll

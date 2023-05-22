@@ -1,0 +1,15 @@
+/Users/fanik/development/COMP123/mid-term/mid-term/obj/Debug/net7.0/mid-term.csproj.AssemblyReference.cache
+/Users/fanik/development/COMP123/mid-term/mid-term/obj/Debug/net7.0/mid-term.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fanik/development/COMP123/mid-term/mid-term/obj/Debug/net7.0/mid-term.AssemblyInfoInputs.cache
+/Users/fanik/development/COMP123/mid-term/mid-term/obj/Debug/net7.0/mid-term.AssemblyInfo.cs
+/Users/fanik/development/COMP123/mid-term/mid-term/obj/Debug/net7.0/mid-term.csproj.CoreCompileInputs.cache
+/Users/fanik/development/COMP123/mid-term/mid-term/bin/Debug/net7.0/mid-term
+/Users/fanik/development/COMP123/mid-term/mid-term/bin/Debug/net7.0/mid-term.deps.json
+/Users/fanik/development/COMP123/mid-term/mid-term/bin/Debug/net7.0/mid-term.runtimeconfig.json
+/Users/fanik/development/COMP123/mid-term/mid-term/bin/Debug/net7.0/mid-term.dll
+/Users/fanik/development/COMP123/mid-term/mid-term/bin/Debug/net7.0/mid-term.pdb
+/Users/fanik/development/COMP123/mid-term/mid-term/obj/Debug/net7.0/mid-term.dll
+/Users/fanik/development/COMP123/mid-term/mid-term/obj/Debug/net7.0/refint/mid-term.dll
+/Users/fanik/development/COMP123/mid-term/mid-term/obj/Debug/net7.0/mid-term.pdb
+/Users/fanik/development/COMP123/mid-term/mid-term/obj/Debug/net7.0/mid-term.genruntimeconfig.cache
+/Users/fanik/development/COMP123/mid-term/mid-term/obj/Debug/net7.0/ref/mid-term.dll

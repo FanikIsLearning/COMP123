@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{5A72FE86-E1F1-4C93-9953-040141029654}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.week02 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Pet PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Medal/Program.cs">
+    <Files>
+      <File FileName="week02/Program.cs" />
+      <File FileName="Medal/Program.cs" Line="105" Column="1" />
+      <File FileName="Pet/Program.cs" Line="39" Column="28" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="week02" expanded="True">
+            <Node name="Medal" expanded="True" />
+            <Node name="Pet" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="week02" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Medal PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

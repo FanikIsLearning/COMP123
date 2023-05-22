@@ -1,0 +1,15 @@
+/Users/fanik/development/COMP123/week01/RectangleDemo/bin/Debug/net7.0/RectangleDemo
+/Users/fanik/development/COMP123/week01/RectangleDemo/bin/Debug/net7.0/RectangleDemo.deps.json
+/Users/fanik/development/COMP123/week01/RectangleDemo/bin/Debug/net7.0/RectangleDemo.runtimeconfig.json
+/Users/fanik/development/COMP123/week01/RectangleDemo/bin/Debug/net7.0/RectangleDemo.dll
+/Users/fanik/development/COMP123/week01/RectangleDemo/bin/Debug/net7.0/RectangleDemo.pdb
+/Users/fanik/development/COMP123/week01/RectangleDemo/obj/Debug/net7.0/RectangleDemo.csproj.AssemblyReference.cache
+/Users/fanik/development/COMP123/week01/RectangleDemo/obj/Debug/net7.0/RectangleDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fanik/development/COMP123/week01/RectangleDemo/obj/Debug/net7.0/RectangleDemo.AssemblyInfoInputs.cache
+/Users/fanik/development/COMP123/week01/RectangleDemo/obj/Debug/net7.0/RectangleDemo.AssemblyInfo.cs
+/Users/fanik/development/COMP123/week01/RectangleDemo/obj/Debug/net7.0/RectangleDemo.csproj.CoreCompileInputs.cache
+/Users/fanik/development/COMP123/week01/RectangleDemo/obj/Debug/net7.0/RectangleDemo.dll
+/Users/fanik/development/COMP123/week01/RectangleDemo/obj/Debug/net7.0/refint/RectangleDemo.dll
+/Users/fanik/development/COMP123/week01/RectangleDemo/obj/Debug/net7.0/RectangleDemo.pdb
+/Users/fanik/development/COMP123/week01/RectangleDemo/obj/Debug/net7.0/RectangleDemo.genruntimeconfig.cache
+/Users/fanik/development/COMP123/week01/RectangleDemo/obj/Debug/net7.0/ref/RectangleDemo.dll
